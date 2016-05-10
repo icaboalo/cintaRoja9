@@ -1,0 +1,1 @@
+djangoKey = 'secret'
